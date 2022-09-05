@@ -1,0 +1,131 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+body{
+	line-height:1.5;
+}
+/* .................section-1................................. */
+.heroimg{
+	padding: 65px 0 100px 0;
+}
+.navbar li a:link, .navbar li a:visited{
+	padding:14px 10px;
+	display:inline-block;
+	color:#000;
+	text-transform:uppercase;
+	font-family: 'Playfair Display', serif;
+}
+.navbar ul li{
+	list-style:none;
+	display:inline-block;
+	margin-left:90px; /* 70px */
+	
+}
+.text-right{
+	text-align:right;
+}
+ a:link, a:visited{
+	text-decoration:none;
+    display: inline-block;
+    padding: 10px;
+}
+}
+.navbar  a{
+	padding:10px;
+
+}
+
+
+/* ...................section-2....................... */
+
+.pri-heading{
+	font-size:14px;
+	font-weight:400;
+	text-transform:uppercase;
+	color:#b4ad9e;
+	margin-bottom:30px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.sec-heading{
+	font-size:29px;
+	font-weight:400;
+	text-transform:capitalize;
+	color:#626262;
+	margin-bottom:30px;
+	font-family: 'Playfair Display', serif;
+}
+
+.para{
+	font-size:14px;
+	color:#626262;
+	margin-bottom:30px;
+	font-family: 'Playfair Display', serif;
+}
+.comment{
+	font-size:14px;
+	font-weight:400;
+	text-transform:uppercase;
+	color:#b4ad9e;	
+}
+.thumbnail .image img{
+	margin-bottom:30px;
+	width:100%;
+	object-fit:cover;
+}
+.sign-up{
+	background-color:#f0f0f0;
+	padding:72px 0;
+}
+.signup-heading{
+	margin-bottom:85px; 
+	color:#333333; 
+}
+.inputsec input {
+    width: 100%;
+    border: none;
+    background-color: #f0f0f0;
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+.inputsec{
+	position:relative;
+}
+.inputsec i{
+	position:absolute;
+	right:5px;
+    transform: rotate(48deg);
+	font-size:20px;
+}
+
+.photodiary2{
+	padding:105px 0 65px 0;
+	
+}
+.btn button {
+    font-size: 20px;
+    color: #626262;
+    padding: 20px 40px;
+    background-color:#fff;
+}
+.footer{
+	background-color:#f0f0f0;
+	padding:40px 0;
+}
+.footer ul li {
+	display:inline-block;
+	/* list-style:none; */
+}
+.terms li{
+	padding: 10px;
+    margin-right: 2px;
+}
+.social-icon{
+	text-align:right;
+}	
+.social-icon i{
+	color:#616161;
+}
+
